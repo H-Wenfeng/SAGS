@@ -1,0 +1,17 @@
+torch>=1.13.1
+torchvision>=0.14.1
+torchaudio>=0.13.1
+mmcv==1.6.0
+matplotlib
+lpips
+plyfile
+imageio-ffmpeg
+imageio
+open3d
+torchmetrics
+einops
+fpsample
+opencv-python
+tqdm
+Pillow
+numpy
